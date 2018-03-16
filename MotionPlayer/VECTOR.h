@@ -1,6 +1,8 @@
 #ifndef _VECTOR_H_
 #define _VECTOR_H_
+
 using namespace std;
+
 #include <cmath>
 #include <iostream>
 #include <fstream>
